@@ -1,0 +1,12 @@
+span {
+    outline-width: 3px;
+    outline-style: dashed;
+    outline-color:rgb(253, 75, 135);
+    padding: 10px;
+}
+div {
+    padding-top:20px;
+}
+body {
+    padding: 15px
+}
